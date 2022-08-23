@@ -15,3 +15,7 @@
 ### Instalando o nodemon
 
 `npm install --save-dev nodemon`
+
+### Instalando o cors
+
+`npm install cors`
