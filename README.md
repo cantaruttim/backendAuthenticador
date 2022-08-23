@@ -18,4 +18,6 @@
 
 ### Instalando o cors
 
+#### pacote node.js
+
 `npm install cors`
